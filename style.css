@@ -1,0 +1,30 @@
+.heading2 {
+color: #F00;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 10px;
+margin-top: 12px;
+}
+
+.list1 {
+    color: #5F5F5F;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+    margin-left: 65px;
+}   
+
+.paragraph1 {
+    color: #5B5B5B;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
